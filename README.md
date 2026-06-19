@@ -83,13 +83,12 @@ Enterprise multi-tenant dashboard built with Angular, TypeScript, RxJS, authenti
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=BhargavPP&theme=dark&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BhargavPP&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
--->
+
 ---
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BhargavPP&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BhargavPP&theme=radical)
 ---
 
 ## ✍️ Dev Quote
@@ -99,3 +98,4 @@ Enterprise multi-tenant dashboard built with Angular, TypeScript, RxJS, authenti
 ---
 
 ![Profile Views](https://visitcount.itsvg.in/api?id=BhargavPP&icon=0&color=0)
+-->
