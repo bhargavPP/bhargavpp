@@ -78,7 +78,7 @@ Enterprise multi-tenant dashboard built with Angular, TypeScript, RxJS, authenti
 
 ## 📊 GitHub Stats
 
-![Bhargav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhargavPP&theme=dark&show_icons=true&include_all_commits=true&count_private=true)
+![Bhargav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhargavPP&theme=dark&show_icons=true)
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=BhargavPP&theme=dark&hide_border=false)
 
