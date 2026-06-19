@@ -75,7 +75,7 @@ Enterprise multi-tenant dashboard built with Angular, TypeScript, RxJS, authenti
 - 🎖️ **Google AI Professional Certification** — Google
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 ![Bhargav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhargavPP&theme=dark&show_icons=true)
@@ -83,7 +83,7 @@ Enterprise multi-tenant dashboard built with Angular, TypeScript, RxJS, authenti
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=BhargavPP&theme=dark&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BhargavPP&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+-->
 ---
 
 ## 🏆 GitHub Trophies
