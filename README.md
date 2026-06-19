@@ -6,7 +6,18 @@ I'm a **Full Stack .NET Developer** based in Brampton, ON with 14+ years of expe
 
 I specialize in designing scalable backend systems, integrating cloud-native Azure services, and delivering reliable solutions in regulated, high-volume environments. I'm comfortable working across the full stack — from REST API design and microservices architecture to Angular front-ends — and I enjoy collaborating with cross-functional teams to solve real business problems.
 
-- 🔭 Currently contracting at **Deloitte** (Winnipeg) — building enterprise-grade .NET / Azure solutions
+## 🚀 Featured Projects
+
+### 🏭 FactoryFloor
+Cloud-native manufacturing platform built using ASP.NET Core Microservices, RabbitMQ, PostgreSQL, MongoDB, Docker, Kubernetes, Helm, and YARP API Gateway.
+
+### 🤖 ClinicAI
+Healthcare appointment management platform with AI-powered assistant, secure APIs, role-based access control, and modern .NET architecture.
+
+### 📊 AngularDashboard
+Enterprise multi-tenant dashboard built with Angular, TypeScript, RxJS, authentication, and responsive UI components.
+
+- 🔭 Currently  at **Deloitte** (Toronto) — building enterprise-grade .NET / Azure solutions
 - 🌱 Deepening expertise in **Azure Kubernetes Service**, **Kafka**, and **AI integration**
 - 🏆 Microsoft **Azure AI-900** certified
 - 💬 Ask me about **.NET Core**, **C#**, **Azure**, **microservices**, or **API design**
@@ -67,11 +78,11 @@ I specialize in designing scalable backend systems, integrating cloud-native Azu
 
 ## 📊 GitHub Stats
 
-![Bhargav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhargavPP&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![Bhargav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhargavPP&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=BhargavPP&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BhargavPP&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BhargavPP&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
